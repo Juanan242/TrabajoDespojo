@@ -100,6 +100,8 @@ public class Panel extends javax.swing.JFrame {
         pack();
     }// </editor-fold>//GEN-END:initComponents
 
+    //hola gay
+    
     /**
      * @param args the command line arguments
      */

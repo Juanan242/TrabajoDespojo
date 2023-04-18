@@ -106,9 +106,6 @@
         <Component class="javax.swing.JLabel" name="jLabel1">
           <Properties>
             <Property name="horizontalAlignment" type="int" value="0"/>
-            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\Alejandro\OneDrive\Documentos\NetBeansProjects\TrabajoDespojo\src\main\java\icons\nubeNormal.png"/>
-            </Property>
             <Property name="toolTipText" type="java.lang.String" value=""/>
             <Property name="iconTextGap" type="int" value="0"/>
             <Property name="maximumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
